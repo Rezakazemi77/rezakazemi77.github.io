@@ -1,0 +1,139 @@
+h1{
+	color:red;
+	font-size:px40;
+	text-align:center;
+	font-family:'Lobster',cursive;
+}
+h3{
+	font-family:'Lobster',cursive;
+	text-align:center;
+}
+h3{
+    color: black;
+    background-color: yellow;
+    font-size: 18px;
+}
+	.tex{
+		text-align:right;
+	}
+h4{
+		text-align: right;
+		font-family:'Dancing Script',cursive;
+	}
+img{
+	margin:20px
+}
+li a {
+	font-family: Arial;
+	color: yellow;
+	font-size: 18px;
+}
+h5{
+		color:blue;
+	font-margin:100px;
+}
+h5{
+	color:blue;
+}
+h5{
+	font-size:22px;
+}
+.parallax {
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bild1{
+    background-image: url("../bilder/1.jpg");
+}
+#bild2{
+    background-image: url("../bilder/2.jpg");
+}
+#bild3{
+    background-image: url("../bilder/3.jpg");
+}
+.scroll-box{
+  height:100px;
+  width: auto;
+  background-color:#424242;
+  display: block;
+}
+#parall{
+  color:white;
+  font-size: 20px;
+  font-family: times;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+.caption span.border {
+   	color:black;
+	background-color:white;
+	font-size:900%;
+	font-family: 'Dancing Script', cursive;
+ background: rgba(255,255,255,0.0);
+}
+.whitebox {
+    position: absolute;
+    top:1450px;
+    background: rgba(255,255,255,0.5);
+    margin-left:50%;
+    transform: translateX(-50%);
+    padding: 30px;
+    border: 0px solid #e71b2d;
+}
+#black2{
+	top:1900px;
+	font-size:100%;
+}
+#black2{
+	font-family:'Satisfy', cursive;
+}
+ .whitetext{
+ 	font-family:'Lobster',cursive; 
+ }
+ #right{
+ 	text-align:left;
+ }
+ #centrera {
+	    margin-left:50%;
+    transform: translateX(-50%);
+}
+#fonttext{
+	font-family:'Lobster',cursive;
+}
+#ff{
+	text-align:right;
+}
+#center{
+	text-align:center;
+}
+#svart2{
+	color:black;
+	background-color:white;
+	font-size:900%;
+	font-family: 'Dancing Script', cursive;
+ background: rgba(255,255,255,0.1);
+}
+#size{
+	font-size:50%;
+}
+.bild3{
+    position: absolute;
+    top:755px;
+    background: rgba(255,255,255,0.5);
+    margin-left:50%;
+    transform: translateX(-50%);
+    padding: 30px;
+    border: 0px solid #e71b2d;
+}
